@@ -1,0 +1,5 @@
+.idea
+.ipynb_checkpoints
+Image_Folder
+*.h5
+!best_vgg16_model.h5
