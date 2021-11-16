@@ -9,7 +9,7 @@ from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
 
-MODEL_PATH = 'model_inception.h5'
+MODEL_PATH = 'best_vgg16_model.h5'
 
 model = load_model(MODEL_PATH)
 
