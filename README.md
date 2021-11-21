@@ -1,5 +1,11 @@
 # Car-Brand-Classification
 
+## Link of the app
+
+1. Upload image of any car belonging to the above mentioned brands for checking the brand name.
+
+      https://detection-of-car-brand.herokuapp.com/
+
 ## Setup for Python:
 
 pip install -r requirements.txt
@@ -36,11 +42,5 @@ python app.py
 2. Create a new app (detection-of-car-brand).
 3. Deploy code via github.
 4. Run the deployed app.
-
-## Link of the app
-
-1. Upload image of any car belonging to the above mentioned brands for checking the brand name.
-
-https://detection-of-car-brand.herokuapp.com/
 
 
